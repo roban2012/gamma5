@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="gb2312"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.retter"
@@ -6,7 +6,7 @@
     <name>Retter2012</name>
 
     <description>
-       This is my apps with BDD ideas Open Source Only!
+       This is my app with BDD ideas. Open Source Only! by Roban(jobnet@188.com)
     </description>
 
     <author email="jobnet@188.com">
